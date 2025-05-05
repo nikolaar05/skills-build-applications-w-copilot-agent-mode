@@ -1,0 +1,34 @@
+{
+  "users": [
+    {"email": "thundergod@mhigh.edu", "name": "Thor", "age": 30},
+    {"email": "metalgeek@mhigh.edu", "name": "Tony Stark", "age": 35},
+    {"email": "zerocool@mhigh.edu", "name": "Steve Rogers", "age": 32},
+    {"email": "crashoverride@mhigh.edu", "name": "Natasha Romanoff", "age": 28},
+    {"email": "sleeptoken@mhigh.edu", "name": "Bruce Banner", "age": 40}
+  ],
+  "teams": [
+    {"name": "Blue Team", "members": ["Thor", "Tony Stark"]},
+    {"name": "Gold Team", "members": ["Steve Rogers", "Natasha Romanoff", "Bruce Banner"]}
+  ],
+  "activities": [
+    {"user": "Thor", "type": "Cycling", "duration": 60},
+    {"user": "Tony Stark", "type": "Crossfit", "duration": 120},
+    {"user": "Steve Rogers", "type": "Running", "duration": 90},
+    {"user": "Natasha Romanoff", "type": "Strength", "duration": 30},
+    {"user": "Bruce Banner", "type": "Swimming", "duration": 75}
+  ],
+  "leaderboard": [
+    {"user": "Thor", "points": 100},
+    {"user": "Tony Stark", "points": 90},
+    {"user": "Steve Rogers", "points": 95},
+    {"user": "Natasha Romanoff", "points": 85},
+    {"user": "Bruce Banner", "points": 80}
+  ],
+  "workouts": [
+    {"name": "Cycling Training", "description": "Training for a road cycling event"},
+    {"name": "Crossfit", "description": "Training for a crossfit competition"},
+    {"name": "Running Training", "description": "Training for a marathon"},
+    {"name": "Strength Training", "description": "Training for strength"},
+    {"name": "Swimming Training", "description": "Training for a swimming competition"}
+  ]
+}
